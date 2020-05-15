@@ -19,3 +19,8 @@ Random forests are a strong modeling technique and much more robust than a singl
 3- Make a few predictions with the predict() function 
 
 4- plot the regression tree using rpart.plot library
+
+
+
+![image](https://user-images.githubusercontent.com/43942029/82017323-e6166980-9650-11ea-871b-64c865a4d537.png)
+![image](https://user-images.githubusercontent.com/43942029/82017341-ee6ea480-9650-11ea-8c94-43d46f1d5782.png)
