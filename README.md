@@ -2,7 +2,7 @@
 
 ## Task
 
-Trying to predict the price of the houses using Regression Tree and Random Forest
+Trying to predict the price of the house using Regression Tree and Random Forest
 
 ## Objective of Regression Tree and Random Forest
 
